@@ -1,4 +1,5 @@
 # Личный проект «Седона»
+https://elvirrrk.github.io/2288551-sedona-37/
 
 * Студент: [Elvira Fatin](https://up.htmlacademy.ru/htmlcss/37/user/2288551).
 * Наставник: [Михаил Шишов](https://htmlacademy.ru/profile/id2351985).
